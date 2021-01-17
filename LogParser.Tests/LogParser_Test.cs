@@ -49,6 +49,7 @@ namespace LogParser.Tests
             Assert.Equal(35, output.Min);
             Assert.Equal(96, output.Max);
             Assert.Equal(3, output.Frequency);
+            Assert.Equal(69.67, Math.Round(output.Total/(1.0*output.Frequency), 2));
         }
 
         [Fact]
