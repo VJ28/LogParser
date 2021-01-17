@@ -1,0 +1,8 @@
+F:\LogParser\LogParser.Entity\bin\Debug\netstandard2.0\LogParser.Entity.deps.json
+F:\LogParser\LogParser.Entity\bin\Debug\netstandard2.0\LogParser.Entity.dll
+F:\LogParser\LogParser.Entity\bin\Debug\netstandard2.0\LogParser.Entity.pdb
+F:\LogParser\LogParser.Entity\obj\Debug\netstandard2.0\LogParser.Entity.csprojAssemblyReference.cache
+F:\LogParser\LogParser.Entity\obj\Debug\netstandard2.0\LogParser.Entity.AssemblyInfoInputs.cache
+F:\LogParser\LogParser.Entity\obj\Debug\netstandard2.0\LogParser.Entity.AssemblyInfo.cs
+F:\LogParser\LogParser.Entity\obj\Debug\netstandard2.0\LogParser.Entity.dll
+F:\LogParser\LogParser.Entity\obj\Debug\netstandard2.0\LogParser.Entity.pdb
